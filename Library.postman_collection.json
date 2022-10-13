@@ -13,7 +13,7 @@
 					"listen": "test",
 					"script": {
 						"exec": [
-							"//Write assertions in tests by new user and now next by user x\r",
+							"//Write assertions in tests by new user and now next by user new branch x\r",
 							"const jsondata =pm.response.json();\r",
 							"\r",
 							"console.log(jsondata);\r",
